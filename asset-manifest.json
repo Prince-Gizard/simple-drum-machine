@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-drum-machine/static/css/main.b264f2f2.css",
+    "main.js": "/simple-drum-machine/static/js/main.2a61a65b.js",
+    "static/js/787.ba0df87e.chunk.js": "/simple-drum-machine/static/js/787.ba0df87e.chunk.js",
+    "static/media/logo.svg": "/simple-drum-machine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simple-drum-machine/index.html",
+    "main.b264f2f2.css.map": "/simple-drum-machine/static/css/main.b264f2f2.css.map",
+    "main.2a61a65b.js.map": "/simple-drum-machine/static/js/main.2a61a65b.js.map",
+    "787.ba0df87e.chunk.js.map": "/simple-drum-machine/static/js/787.ba0df87e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b264f2f2.css",
+    "static/js/main.2a61a65b.js"
+  ]
+}
